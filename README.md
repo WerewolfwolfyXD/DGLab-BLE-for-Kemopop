@@ -2,6 +2,8 @@
 
 ## 🎮 将你的 Kemopop! 连接到你的 DGLAB郊狼3设备上
 
+![Screenshot of Program Preview](assets/preview.png)
+
 本来是为了个人用途而为 **Kemopop!** 游戏设计的实时联动控制器
 它通过监控游戏进程的输出 Log，自动解析游戏事件（如 Combo 触发、游戏开始/结束）
 并将这些事件实时转换为波形指令，通过 **蓝牙 (BLE)** 协议发送给 **DG-LAB V3 (Coyote)** 脉冲设备
