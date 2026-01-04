@@ -74,5 +74,7 @@ python DGLab_Kemopop.py
 
 ## 📜 感谢：
 > 1️⃣ 核心脉冲控制逻辑：[DG-LAB OPENSOURCE V3 蓝牙协议](https://github.com/amoeet/VRChat_X_DGLAB)
+>
 > 2️⃣ 更多波形支持： [DG-LAB v2 PulseData](https://github.com/BobH233/DGLab-v2-PulseData)
-本项目为个人用途而编写，基于开源协议，请自行参考。
+>
+> 本项目为个人用途而编写，基于开源协议，请自行参考。
