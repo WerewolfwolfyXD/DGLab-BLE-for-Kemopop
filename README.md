@@ -1,7 +1,7 @@
 # 🐺 DGLab Kemopop! Controller ⚡
 
 ## 🎮 将你的 Kemopop! 连接到你的 DGLAB郊狼3设备上
-### 更新将跟随 [Steam游戏版本](https://store.steampowered.com/app/1332010) 进行更新 | 当前最高支持版本：2.1.5.0
+### 更新将跟随 [Steam游戏版本](https://store.steampowered.com/app/3093590) 进行更新 | 当前最高支持版本：2.1.5.0
 
 ![Screenshot of Program Preview](assets/preview.png)
 
